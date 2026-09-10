@@ -1,16 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Accessibility Checklist banner">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Accessibility Checklist banner">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7c3aed"/>
-      <stop offset="55%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#06b6d4"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
     </linearGradient>
-    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
   </defs>
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <circle cx="200" cy="20" r="90" fill="#f472b6" opacity="0.2" filter="url(#soft)"/>
-  <circle cx="1000" cy="180" r="110" fill="#7c3aed" opacity="0.18" filter="url(#soft)"/>
-  <circle cx="120" cy="90" r="70" fill="#2563eb" opacity="0.35"/><circle cx="980" cy="110" r="90" fill="#06b6d4" opacity="0.3"/><circle cx="700" cy="160" r="50" fill="#f472b6" opacity="0.4"/><circle cx="300" cy="40" r="30" fill="#7c3aed" opacity="0.5"/>
-  <text x="600" y="95" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="42" font-weight="700" fill="#ffffff">Accessibility Checklist</text>
-  <text x="600" y="140" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="20" fill="#ffffff" opacity="0.9">manansbdb · docs · EN + PT · MIT</text>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <circle cx="1400" cy="60" r="160" fill="#38bdf8" opacity="0.15"/>
+  <circle cx="100" cy="360" r="120" fill="#22c55e" opacity="0.12"/>
+  <text x="80" y="170" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" fill="#f8fafc">Accessibility Checklist</text>
+  <text x="80" y="230" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#bae6fd">WCAG-oriented accessibility checklist for web apps and sites.</text>
+  <text x="80" y="290" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#94a3b8">MIT · EN + PT · zero paywall · manansbdb</text>
 </svg>
